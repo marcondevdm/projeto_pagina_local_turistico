@@ -2,5 +2,13 @@
 *{
   margin: 0px;
   padding: 0px; 
+  background-color:#F5F4F0 ;
+}
+
+#bloco_pagina{
+  background-color: #F5F4F0;
+  width: 1120px;
+  height: 3054px;
+
 }
 
