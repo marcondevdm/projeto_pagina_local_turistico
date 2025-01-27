@@ -25,11 +25,162 @@ h3{
   color: #E1624F;
 }
 
-h2{
-  font-family:"Open Sans", serif ;
+h2 {
+  font-family: "Open Sans", serif;
   font-weight: bold;
   font-size: 28px;
-  color:#1B1B1B ;
+  color: #1B1B1B;
 }
+
+
+#introduction_page h2{
+  font-family: "Open Sans", serif;
+  font-weight: bold;
+  font-size: 32px;
+  color: #1B1B1B;
+}
+
+#title_page p{
+  font-family: "Open Sans", serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #333333;
+  text-align: center;
+}
+
+#introduction_page p{
+  font-family: "Open Sans", serif;
+  font-size: 16px;
+  color: #333333;
+}
+
+#templo_haedong_yonggungsa p{
+  font-family: "Open Sans", serif;
+  font-size: 16px;
+  color: #333333;
+}
+
+#templo_beomeo_sa p{
+  font-family: "Open Sans", serif;
+  font-size: 16px;
+  color: #333333;
+}
+
+#parque_yongdusan p {
+  font-family: "Open Sans", serif;
+  font-size: 16px;
+  color: #333333;
+}
+
+
+#templo_haedong_yonggungsa p:last-of-type {
+  font-family: "Open Sans", serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: #1E1E1E;
+}
+
+
+#templo_beomeo_sa p:last-of-type {
+  font-family: "Open Sans", serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: #1E1E1E;
+}
+
+#parque_yongdusan p:last-of-type {
+  font-family: "Open Sans", serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: #1E1E1E;
+}
+
+#templo_haedong_yonggungsa ul li {
+  color: #0C51A7; /* accent-blue */
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "Open Sans", serif;
+}
+
+
+#templo_beomeo_sa ul li {
+  color: #0C51A7; /* accent-blue */
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "Open Sans", serif;
+}
+
+
+#parque_yongdusan ul li.option1 {
+  color: #591B98; /* accent-purple */
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "Open Sans", serif;
+}
+
+
+#parque_yongdusan ul li.option2 {
+  color: #E5245E; /* accent-pink */
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "Open Sans", serif;
+}
+
+
+#parque_yongdusan ul li.option3 {
+  color: #E95E10; /* accent-orange */
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "Open Sans", serif;
+}
+
+
+#description{
+  font-family:"Open Sans", serif ;
+  font-size: 16px;
+  color: #333333;
+  text-align: center;
+}
+
+footer{
+  font-size: 16px;
+  font-family: "Alice", serif;
+  color: #333333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
