@@ -155,6 +155,130 @@ footer{
   margin-bottom: 137px;
 }
 
+#title_page h3{
+  margin-bottom: 8px;
+}
+
+h1{
+  margin-bottom: 40px;
+}
+
+#title_page img{
+  margin-bottom: 24px;
+}
+
+#title_page p{
+  margin-bottom: 44px;
+}
+
+#divisor_01{
+  margin-bottom: 64px;
+}
+
+#introduction_page h3{
+  margin-bottom: 4px;
+}
+
+
+#introduction_page h2{
+  margin-bottom: 8px;
+}
+
+
+#introduction_page p{
+  margin-bottom: 64px;
+}
+
+
+#templo_haedong_yonggungsa img{
+  margin-bottom: 20px;
+}
+
+#templo_haedong_yonggungsa h2{
+  margin-bottom: 2px;
+}
+
+#templo_haedong_yonggungsa h2 +p{
+  margin-bottom: 20px;
+}
+
+#templo_haedong_yonggungsa ul{
+  margin-left: 20px;
+  margin-bottom: 57px;
+}
+
+#templo_beomeo_sa img{
+  margin-bottom: 20px;
+}
+
+#templo_beomeo_sa h2{
+  margin-bottom: 4px;
+}
+
+#templo_beomeo_sa h2 +p{
+  margin-bottom: 20px;
+}
+
+#templo_beomeo_sa ul{
+  margin-left: 20px;
+  margin-bottom: 48px;
+}
+
+
+#parque_yongdusan img{
+  margin-bottom: 20px;
+}
+
+
+#parque_yongdusan h2{
+  margin-bottom: 4px;
+}
+
+
+#parque_yongdusan h2 +p{
+  margin-bottom: 20px;
+}
+
+#parque_yongdusan ul{
+  margin-left: 20px;
+  margin-bottom: 40px;
+}
+
+#divisor_02{
+  margin-bottom: 40px;
+}
+
+#description p {
+  margin-bottom:56px ;
+}
+
+footer{
+  margin-left: 537px;
+  margin-right: 537px;
+  margin-top: 56px;
+  margin-bottom: 48px;
+}
+
+footer img{
+  position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
